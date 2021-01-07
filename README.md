@@ -1,7 +1,7 @@
-# Spatial Filtering w/ Numba
-A small demonstration of the power of Numba to speed up mathematical calculations in Python.
+# Spatial Filtering
+How to eliminate null values from a GIS dataset using a spatial filter.
 
-## installation of dependecies
+## Installation of dependecies
 
 Create environment:
 
@@ -18,5 +18,3 @@ Install dependencies:
 #### __Further Reading__
 
 * “[Geoprocessing with Python](https://livebook.manning.com/book/geoprocessing-with-python/chapter-11/77)" by Chris Garrard
-
-* "[Fast Numeric Code: Numba](https://calmcode.io/numba/introduction.html)" (video series) by Vincent Warmerdam

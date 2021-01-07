@@ -1,0 +1,5 @@
+jupyterlab
+numba~=0.52.0
+scipy
+xarray
+matplotlib

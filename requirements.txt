@@ -1,3 +1,4 @@
 jupyterlab
-scipy
-matplotlib
+scipy~=1.6.0
+matplotlib~=3.3.3
+pandas~=1.2.0

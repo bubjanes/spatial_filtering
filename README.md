@@ -1,6 +1,8 @@
 # Spatial Filtering
 How to eliminate null values from a GIS dataset using a spatial filter.
 
+![Images of GIS elevation data before and after spatial filter smoothing has been applied.](images/nan_control.jpg)
+
 ## Installation of dependecies
 
 Create environment:

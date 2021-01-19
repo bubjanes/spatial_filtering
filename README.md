@@ -1,5 +1,4 @@
-# Spatial Filtering
-How to eliminate null values from a GIS dataset using a spatial filter.
+# Spatial Filtering: How to eliminate null values from a GIS dataset
 
 >Here you can find the full article *[Managing null values in raster data with Python](https://towardsdatascience.com/managing-null-values-in-raster-data-with-python-511339b1b31b)*, which accompanies this notebook, published on **Towards Data Science** (**Medium**). 
 
